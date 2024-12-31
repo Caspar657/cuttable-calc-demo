@@ -1,0 +1,9 @@
+[theme]
+primaryColor="#04e283"  # Main accent color for interactive elements (Cuttable orange)
+backgroundColor="#171e1e"  # Background color (white)
+secondaryBackgroundColor="#1d1d1d"  # Background color for sidebar/cards (light gray from Cuttable)
+textColor="#FFFFFF"  # Main text color (near black from Cuttable)
+font="sans serif"  # Font family matching Cuttable's website
+
+# Optional additional customizations
+base="light"  # Cuttable uses a light theme
